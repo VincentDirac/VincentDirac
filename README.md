@@ -1,7 +1,7 @@
 ## Hi there, I'm Vincent Dirac. 👋
 
 * A Touhou fan;
-* Favorite Character: Koishi Komeiji;
+* Favorite Touhou Character: Komeiji Koishi;
 * Active in [THBWiki](https://thwiki.cc);
 * Usually coding in Python；
 * Constantly learning and exploring.
